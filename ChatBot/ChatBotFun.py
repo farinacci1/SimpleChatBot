@@ -21,7 +21,7 @@ greetings_responses=['Was sup','yo!','Long time no see','Ahh! Its you again']
 greeting_questions=['how are you doing?','how are you']
 greeting_questions_responses=['I\'m Okay','Fine I guess','Not half bad','Ehh. can\'t complain']
 joke_request=['tell me a joke','say something funny']
-jokes=['Did you hear about the monkeys who shared an Amazon account? They were Primate mates','What do you call 8 hobbits? A hobbyte',
+jokes=['Did you hear about the monkeys who shared an Amazon account? They were Prime mates','What do you call 8 hobbits? A hobbyte',
 'Did you hear about the database admins who walked into a NoSql bar.Yah I didnt think so, since they left after not being able to find a table',
 'Normally i like to tell computer jokes but heres a good one that not computer related. Why did the man put his money in the freezer? Because he wanted cold hard cash',
 'why did the computer go to the doctor? Because it had a virus!']
