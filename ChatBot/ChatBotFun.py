@@ -75,7 +75,7 @@ while True:
 #       listen(speech)
 #       text = convert(speech)
 #       handle_Text_Request(text)
-# where listen, conver, and handle_Text_Request are functions they created for procssin and handling user requests
+# where listen, convert, and handle_Text_Request are functions they created for processing and handling user requests
 ################################################################################################################################
 # scary possibility for systems of this dynamic that are always listening, is that while it might be set to only respond to you on set phrases as listed above if enabled
 # to do so by a programmer,information on anything you say could be collected and processed
