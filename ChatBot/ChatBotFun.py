@@ -61,7 +61,7 @@ while True:
     user_input = input('')
 ################################################################
 # The implementation above is not intelligent by any means and is essentially a switch case handling diffrent possibilites
-# assuming infinite storage capacity and infinitely fast processing speeds you could potentially hard code every possible case for discussion purposes
+# assuming infinite storage capacity and ultra-fast processing speeds you could potentially hard code every possible case for discussion purposes
 # that is if languages didnt evolve over time and you derive every possible pattern for every possible message
 # simple to do, but lacks efficency, and the bigger the range of entries-responses created the slower it will become
 #################################################################
