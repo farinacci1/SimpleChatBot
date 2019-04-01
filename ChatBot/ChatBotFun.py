@@ -35,8 +35,8 @@ stop_listening = 0
 user_input = input('Hi, enter anything to get started')
 while True:
     # Note in computing capital letters are differnt from lower case letters
-    # charchter a binary value is 0110 0001
-    # charchter A binary value is 0100 0001
+    # character a binary value is 0110 0001
+    # character A binary value is 0100 0001
     # as you can imagine Hi will not result in same as HI or hi
     # therefore its perfered method to lower case input and what its being compared with
     # or uppercase both
