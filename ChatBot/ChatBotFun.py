@@ -70,7 +70,7 @@ while True:
 # on the outer level itll follow this schema
 # while True:
 #   speech = listen_microphone()
-#   text = convert(speech) // filter out noise and collect known sounds in words said to build word as text
+#   text = convert(speech) // filter out noise and collect known sounds to build language as text
 #   if text == 'alexa' or ' hey google':
 #       listen(speech)
 #       text = convert(speech)
